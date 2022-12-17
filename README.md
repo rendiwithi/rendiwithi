@@ -32,5 +32,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rendiwithi&show_icons=true&locale=en&layout=compact" alt="rendiwithi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rendiwithi&show_icons=true&locale=en" alt="rendiwithi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rendiwithi&" alt="rendiwithi" /></p>
