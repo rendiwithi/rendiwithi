@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rendiwithi&label=Profile%20views&color=0e75b6&style=flat" alt="rendiwithi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rendiwithi" alt="rendiwithi" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://rendiwithi.github.io/](https://rendiwithi.github.io/)
 
